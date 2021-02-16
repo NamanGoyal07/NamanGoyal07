@@ -48,9 +48,6 @@ Loves problem solving and solve problems at various competitive platforms such a
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamanGoyal07)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NamanGoyal072000&show_icons=true&theme=gotham" alt="Naman" />
-
-
 ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
  
 <a href="https://www.linkedin.com/in/naman27/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> <a href="https://www.facebook.com/naman.goyal.161/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a> <a href="mailto:naman18@iitg.ac.in" target="_blank"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
