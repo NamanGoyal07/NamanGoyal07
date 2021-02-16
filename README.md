@@ -45,9 +45,9 @@ Loves problem solving and solve problems at various competitive platforms such a
 
 
 📈 My GitHub Stats
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamanGoyal07)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NamanGoyal072000&show_icons=true&theme=gotham" alt="Naman" />
+<!--<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NamanGoyal072000&show_icons=true&theme=gotham" alt="Naman" />
 
 
 ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
