@@ -13,7 +13,7 @@ Loves problem solving and solve problems at various competitive platforms such a
 - 🌱 I’m currently a learner. 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@naman27](https://www.linkedin.com/in/naman27/)
-- 📝[Resume](https://drive.google.com/file/d/1o0ZS_i6nB1BqclkJZS5GfQQlgxwSp6-U/view?usp=sharing)
+- 📝[Naman's Resume](https://drive.google.com/file/d/1o0ZS_i6nB1BqclkJZS5GfQQlgxwSp6-U/view?usp=sharing)
 
 
 **Languages and Tools:**  
