@@ -12,7 +12,7 @@ Loves problem solving and solve problems at various competitive platforms such a
 - 👨🏽‍💻 I’m currently building my development and algorithmic skills.
 - 🌱 I’m currently a learner. 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@naman27]()
+- 📫 How to reach me: [@naman27](https://www.linkedin.com/in/naman27/)
 - 📝[Resume]()
 
 
