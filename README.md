@@ -45,6 +45,7 @@ Loves problem solving and solve problems at various competitive platforms such a
 
 
 📈 My GitHub Stats
+
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamanGoyal07)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NamanGoyal072000&show_icons=true&theme=gotham" alt="Naman" />
