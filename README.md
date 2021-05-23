@@ -43,6 +43,8 @@ Loves problem solving and solve problems at various competitive platforms such a
 -->
 <!-- TODO-IST:END -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NamanGoyal07" alt="Naman Goyal's profile views"/> </p>
+
 
 📈 My GitHub Stats
 
