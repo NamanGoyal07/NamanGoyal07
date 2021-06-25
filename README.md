@@ -43,12 +43,12 @@ Loves problem solving and solve problems at various competitive platforms such a
 -->
 <!-- TODO-IST:END -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NamanGoyal07" alt="Naman Goyal's profile views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naman027" alt="Naman Goyal's profile views"/> </p>
 
 
 📈 My GitHub Stats
 
-[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamanGoyal07)](https://github.com/anuraghazra/github-readme-stats)
+[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naman027)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
  
